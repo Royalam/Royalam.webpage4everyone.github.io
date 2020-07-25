@@ -1,1 +1,1 @@
-# royalam.github.com
+# royalam.github.io
